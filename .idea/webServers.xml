@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e58aa9e4-428c-451f-b4bb-a8d104317802" name="Pi Server home" url="http://192.168.2.199">
+        <fileTransfer host="192.168.2.199" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="79379edf-86ff-4118-b6bb-2034fdcf84d1" name="Pi server school" url="http://169.254.223.88">
+        <fileTransfer host="169.254.223.88" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
