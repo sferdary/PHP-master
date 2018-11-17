@@ -1,1 +1,1 @@
-# php-master
+# php-master - school exercises
