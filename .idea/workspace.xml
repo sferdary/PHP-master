@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4584e9ae-0665-44f9-9d79-3d3fcf525482" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/S__Ferdary.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/003_01_for_statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/003_02_foreach_statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/003_03_while_statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/003_04_double_loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/003_05_control_structure.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/003_06_modulus_operator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/003_final_assignment.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheatsheet.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003/003_final_assignment.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_final_assignment.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +42,7 @@
           <entry key="css" value="4" />
           <entry key="html" value="1" />
           <entry key="jpg" value="1" />
-          <entry key="php" value="16" />
+          <entry key="php" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -64,7 +50,7 @@
           <entry key="CSS" value="4" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="PHP" value="16" />
+          <entry key="PHP" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -84,14 +70,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/003/003_final_assignment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="717">
-              <caret line="52" selection-start-line="41" selection-start-column="16" selection-end-line="52" />
+            <state relative-caret-position="1717">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
               <folding>
-                <element signature="e#6#77#0#PHP" expanded="true" />
+                <element signature="e#19#90#0#PHP" expanded="true" />
+                <element signature="e#2093#2164#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/003/003_01_for_statement.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/003/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="2924">
+              <caret line="172" selection-start-line="172" selection-end-line="172" />
             </state>
           </provider>
         </entry>
@@ -238,18 +234,18 @@
       <workItem from="1542375641524" duration="49000" />
       <workItem from="1542376516861" duration="692000" />
       <workItem from="1542451227372" duration="13704000" />
-      <workItem from="1542480532216" duration="272000" />
+      <workItem from="1542480532216" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68188000" />
+    <option name="totallyTimeSpent" value="68830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +258,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.14270386" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.14270386" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32725322" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="13" weight="0.32832617" />
@@ -304,13 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/003/003_01_for_statement.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/003/003_04_double_loop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -341,18 +330,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/003/003_final_assignment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="52" selection-start-line="41" selection-start-column="16" selection-end-line="52" />
+        <state relative-caret-position="1717">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
           <folding>
-            <element signature="e#6#77#0#PHP" expanded="true" />
+            <element signature="e#19#90#0#PHP" expanded="true" />
+            <element signature="e#2093#2164#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/003/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="2924">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003/003_01_for_statement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
