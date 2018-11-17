@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Created by PhpStorm.
@@ -46,5 +45,4 @@ echo "<img src='img/trees/$tree'>";
 }
  ?>
 </body>
->>>>>>> 4f5357d17574c73071d5325a9ed30e78f395a23b
 </html>

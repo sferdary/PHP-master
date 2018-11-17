@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Created by PhpStorm.
@@ -54,5 +53,4 @@ for ($i = 1; $i <=9 ;$i++){
 }
  ?>
 </body>
->>>>>>> 4f5357d17574c73071d5325a9ed30e78f395a23b
 </html>
