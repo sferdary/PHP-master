@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4584e9ae-0665-44f9-9d79-3d3fcf525482" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/003/003_01_for_statement.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_01_for_statement.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/003_02_foreach_statement.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_02_foreach_statement.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/003_03_while_statement.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_03_while_statement.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/003_04_double_loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_04_double_loop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/003_05_control_structure.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_05_control_structure.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/003_06_modulus_operator.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_06_modulus_operator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/003_final_assignment.php" beforeDir="false" afterPath="$PROJECT_DIR$/003/003_final_assignment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/003/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheatsheet.php" beforeDir="false" afterPath="$PROJECT_DIR$/cheatsheet.php" afterDir="false" />
-    </list>
+    <list default="true" id="4584e9ae-0665-44f9-9d79-3d3fcf525482" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +26,7 @@
     <session id="-1545159333">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="4" />
@@ -81,7 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/003/003_final_assignment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="527">
+              <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
                 <element signature="e#2093#2164#0#PHP" expanded="true" />
               </folding>
@@ -202,7 +193,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1432" />
     <option name="height" value="1057" />
@@ -284,16 +275,15 @@
       <workItem from="1542375641524" duration="49000" />
       <workItem from="1542376516861" duration="692000" />
       <workItem from="1542451227372" duration="13704000" />
-      <workItem from="1542480532216" duration="1915000" />
+      <workItem from="1542480532216" duration="1955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69831000" />
+    <option name="totallyTimeSpent" value="69871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -378,7 +368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/003/003_final_assignment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="527">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
           <folding>
             <element signature="e#2093#2164#0#PHP" expanded="true" />
           </folding>
