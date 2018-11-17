@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .centered_text {
     text-align: center;
 }
@@ -94,4 +95,102 @@ div.result {
     color: white;
     margin-left: 25%;
     text-shadow: 2px 2px black;
+=======
+.centered_text {
+    text-align: center;
+}
+
+.red_border {
+    border: red 5px solid;
+}
+
+.green_border {
+    border: green 5px solid;
+}
+
+.black_border {
+    border: black 1px solid;
+}
+
+body.final_assignment {
+    background: black url("img/final_assignment_background.jpg") no-repeat top center;
+    font-family: 'Raleway', sans-serif;
+}
+
+header.title-header {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    border-radius: 25px;
+    border: #8c8c8c 2px solid;
+    width: 320px;
+    height: 50px;
+}
+
+h2.title-header {
+    margin-top: 10px;
+    color: white;
+
+}
+
+div.main {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 300px;
+    height: 175px;
+    background: linear-gradient(145deg, #004E95 60%, #013A6B 40%);
+    border-radius: 25px;
+    border: black 2px solid;
+}
+
+form.bus_price {
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}
+
+label.label_header {
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+input.input_age {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 70px;
+    height: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: #8c8c8c 2px solid;
+
+}
+
+div.calculate-reset {
+    margin: 0 auto;
+    width: 150px;
+}
+
+button.calculate-reset {
+    margin: 0 auto;
+    width: 70px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: black 1px solid;
+}
+
+div.result {
+    color: white;
+    margin-left: 25%;
+    text-shadow: 2px 2px black;
+>>>>>>> 4f5357d17574c73071d5325a9ed30e78f395a23b
 }
