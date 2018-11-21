@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Final assignment</title>
+    <title>Final assignment 01</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="style.css" rel="stylesheet">
@@ -20,7 +20,7 @@
     <h2 class="title-header">Calculate your bus ticket</h2>
 </header>
 <div class="main">
-    <form class="bus_price" id="bus_price" name="form" action="003_final_assignment.php" method="POST">
+    <form class="bus_price" id="bus_price" name="form" action="003_final_assignment_01.php" method="POST">
         <label class="label_header" for="age">Enter your age:</label><br>
         <input class="input_age" type="number" name="age" id="age">
     </form>

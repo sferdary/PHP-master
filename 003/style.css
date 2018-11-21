@@ -95,3 +95,18 @@ div.result {
     margin-left: 25%;
     text-shadow: 2px 2px black;
 }
+
+body.final_assignment02 {
+    background-color: #000000;
+    color: white;
+}
+
+.club-table {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+img.swimmer {
+    width: 25px;
+    height: auto;
+}

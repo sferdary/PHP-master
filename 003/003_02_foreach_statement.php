@@ -14,6 +14,7 @@
     <link href="style.css" rel="stylesheet">
 </head>
 <body>
+
 <?php
 $trees = array("img_0050.jpg","lillypilly1.jpg", "Maranchery_Biyyam_Kayal_kandal.jpg", "weeping-elm.jpg","weeping-elm0091.jpg");
 foreach($trees as $tree){
